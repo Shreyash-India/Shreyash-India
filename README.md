@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **⏭ Generative Adversarial Networks**
 
-- 📫 How to reach me **shreyash.kiit@gmail.com**
+- 📫 reach me out at **shreyash.kiit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
